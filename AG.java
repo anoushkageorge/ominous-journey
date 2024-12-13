@@ -8,9 +8,9 @@ import java.util.*;
  * You can create additional methods but must have the move method
  * 
  */
-public class PlayerExample implements Player
+public class AG implements Player
 {
-    private static String name = "PlayerExample";
+    private static String name = "AG";
     /**
      * An example of a method - replace this comment with your own
      * You must create some kind of logic of what to play against your opponent...start thinking!
